@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "3f03349c610209ea25e4a2e92e638afa"
+build_time: [537325786, 454951000]
+inputs:
+  "/Users/Bijibaba/Documents/Programs/Scour/Scour/AppDelegate.swift": [535281592, 0]
+  "/Users/Bijibaba/Documents/Programs/Scour/Scour/WindowViewController.swift": [536458187, 0]
+  "/Users/Bijibaba/Documents/Programs/Scour/Scour/Prefrences.swift": [535283841, 0]

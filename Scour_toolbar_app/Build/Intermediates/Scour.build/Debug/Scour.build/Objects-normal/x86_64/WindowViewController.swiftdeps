@@ -1,0 +1,195 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WindowViewController"
+provides-nominal:
+- "C5Scour20WindowViewController"
+provides-member:
+- ["C5Scour20WindowViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "minPrice"
+- "freeBool"
+- "emailField"
+- "maxPrice"
+- "furnitureBool"
+- "submitButton"
+- "searchTerms"
+depends-top-level:
+- "NSViewController"
+- "NSButton"
+- "NSTextField"
+- "WindowViewController"
+depends-member:
+- ["PSs9AnyObject", "emailField"]
+- ["PSs9AnyObject", "freeBool"]
+- ["PSs9AnyObject", "furnitureBool"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "maxPrice"]
+- ["PSs9AnyObject", "minPrice"]
+- ["PSs9AnyObject", "searchTerms"]
+- ["PSs9AnyObject", "submitButton"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "emailField"]
+- ["PSs11CVarArgType", "freeBool"]
+- ["PSs11CVarArgType", "furnitureBool"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "maxPrice"]
+- ["PSs11CVarArgType", "minPrice"]
+- ["PSs11CVarArgType", "searchTerms"]
+- ["PSs11CVarArgType", "submitButton"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "emailField"]
+- ["PSs23CustomStringConvertible", "freeBool"]
+- ["PSs23CustomStringConvertible", "furnitureBool"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "maxPrice"]
+- ["PSs23CustomStringConvertible", "minPrice"]
+- ["PSs23CustomStringConvertible", "searchTerms"]
+- ["PSs23CustomStringConvertible", "submitButton"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "emailField"]
+- ["PSs9Equatable", "freeBool"]
+- ["PSs9Equatable", "furnitureBool"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "maxPrice"]
+- ["PSs9Equatable", "minPrice"]
+- ["PSs9Equatable", "searchTerms"]
+- ["PSs9Equatable", "submitButton"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "emailField"]
+- ["PSs8Hashable", "freeBool"]
+- ["PSs8Hashable", "furnitureBool"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "maxPrice"]
+- ["PSs8Hashable", "minPrice"]
+- ["PSs8Hashable", "searchTerms"]
+- ["PSs8Hashable", "submitButton"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "emailField"]
+- ["PSo8NSCoding", "freeBool"]
+- ["PSo8NSCoding", "furnitureBool"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "maxPrice"]
+- ["PSo8NSCoding", "minPrice"]
+- ["PSo8NSCoding", "searchTerms"]
+- ["PSo8NSCoding", "submitButton"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "emailField"]
+- ["PSo26NSExtensionRequestHandling", "freeBool"]
+- ["PSo26NSExtensionRequestHandling", "furnitureBool"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "maxPrice"]
+- ["PSo26NSExtensionRequestHandling", "minPrice"]
+- ["PSo26NSExtensionRequestHandling", "searchTerms"]
+- ["PSo26NSExtensionRequestHandling", "submitButton"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "NSButton"]
+- ["CSo8NSObject", "NSTextField"]
+- ["CSo8NSObject", "emailField"]
+- ["CSo8NSObject", "freeBool"]
+- ["CSo8NSObject", "furnitureBool"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "maxPrice"]
+- ["CSo8NSObject", "minPrice"]
+- ["CSo8NSObject", "searchTerms"]
+- ["CSo8NSObject", "submitButton"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "emailField"]
+- ["PSo16NSObjectProtocol", "freeBool"]
+- ["PSo16NSObjectProtocol", "furnitureBool"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "maxPrice"]
+- ["PSo16NSObjectProtocol", "minPrice"]
+- ["PSo16NSObjectProtocol", "searchTerms"]
+- ["PSo16NSObjectProtocol", "submitButton"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo11NSResponder", "NSButton"]
+- ["CSo11NSResponder", "NSTextField"]
+- ["CSo11NSResponder", "emailField"]
+- ["CSo11NSResponder", "freeBool"]
+- ["CSo11NSResponder", "furnitureBool"]
+- ["CSo11NSResponder", "init"]
+- ["CSo11NSResponder", "maxPrice"]
+- ["CSo11NSResponder", "minPrice"]
+- ["CSo11NSResponder", "searchTerms"]
+- ["CSo11NSResponder", "submitButton"]
+- ["CSo11NSResponder", "viewDidLoad"]
+- ["PSo17NSSeguePerforming", "emailField"]
+- ["PSo17NSSeguePerforming", "freeBool"]
+- ["PSo17NSSeguePerforming", "furnitureBool"]
+- ["PSo17NSSeguePerforming", "init"]
+- ["PSo17NSSeguePerforming", "maxPrice"]
+- ["PSo17NSSeguePerforming", "minPrice"]
+- ["PSo17NSSeguePerforming", "searchTerms"]
+- ["PSo17NSSeguePerforming", "submitButton"]
+- ["PSo17NSSeguePerforming", "viewDidLoad"]
+- ["PSo17NSSeguePerforming", ""]
+- ["PSo33NSUserInterfaceItemIdentification", "emailField"]
+- ["PSo33NSUserInterfaceItemIdentification", "freeBool"]
+- ["PSo33NSUserInterfaceItemIdentification", "furnitureBool"]
+- ["PSo33NSUserInterfaceItemIdentification", "init"]
+- ["PSo33NSUserInterfaceItemIdentification", "maxPrice"]
+- ["PSo33NSUserInterfaceItemIdentification", "minPrice"]
+- ["PSo33NSUserInterfaceItemIdentification", "searchTerms"]
+- ["PSo33NSUserInterfaceItemIdentification", "submitButton"]
+- ["PSo33NSUserInterfaceItemIdentification", "viewDidLoad"]
+- ["PSo33NSUserInterfaceItemIdentification", ""]
+- ["CSo16NSViewController", "NSButton"]
+- ["CSo16NSViewController", "NSTextField"]
+- ["CSo16NSViewController", "emailField"]
+- ["CSo16NSViewController", "freeBool"]
+- ["CSo16NSViewController", "furnitureBool"]
+- ["CSo16NSViewController", "init"]
+- ["CSo16NSViewController", "maxPrice"]
+- ["CSo16NSViewController", "minPrice"]
+- ["CSo16NSViewController", "searchTerms"]
+- ["CSo16NSViewController", "submitButton"]
+- ["CSo16NSViewController", "viewDidLoad"]
+- ["CSo16NSViewController", ""]
+- ["C5Scour20WindowViewController", "NSButton"]
+- ["C5Scour20WindowViewController", "NSTextField"]
+- ["C5Scour20WindowViewController", "deinit"]
+- ["C5Scour20WindowViewController", "emailField"]
+- ["C5Scour20WindowViewController", "freeBool"]
+- ["C5Scour20WindowViewController", "furnitureBool"]
+- ["C5Scour20WindowViewController", "init"]
+- ["C5Scour20WindowViewController", "maxPrice"]
+- ["C5Scour20WindowViewController", "minPrice"]
+- ["C5Scour20WindowViewController", "searchTerms"]
+- ["C5Scour20WindowViewController", "submitButton"]
+- ["C5Scour20WindowViewController", "viewDidLoad"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo11NSResponder"
+- "PSo17NSSeguePerforming"
+- "PSo33NSUserInterfaceItemIdentification"
+- "CSo16NSViewController"
+- "C5Scour20WindowViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+interface-hash: "2984af8f1590daae47437834ea11dac4"
